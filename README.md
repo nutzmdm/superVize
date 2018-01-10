@@ -62,6 +62,7 @@ superVize is able to work in background to send user notifications. But, if Andr
   <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/host_details_1.png" alt="host details"/>
   <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/host_details_2.png" alt="host details"/>
   <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/host_details_3.png" alt="host details"/>
+  <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/host_details_4.png" alt="host details"/>
 </p>
 
 ----------
