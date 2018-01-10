@@ -74,7 +74,7 @@ superVize is able to work in background to send user notifications. But, if Andr
   <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/service_details_3.png" alt="service details"/>
   <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/service_details_4.png" alt="service details"/>
   <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/service_details_5.png" alt="service details"/>
-  <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/command_add_downtime_.png" alt="service details"/>
+  <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/command_add_downtime.png" alt="service details"/>
   <img src="https://github.com/nutzmdm/superVize/raw/master/images/Screenshots/command_add_comment.png" alt="service details"/>  
 </p>
 
