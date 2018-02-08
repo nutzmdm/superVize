@@ -12,6 +12,10 @@ superVize is an Android application dedicated to talk to [Centreon REST API](htt
 
 superVize reaches the supervision information directly on your centreon server.
 
+# Installation
+Free version : https://play.google.com/store/apps/details?id=com.nico.supervizefree
+Paid version : https://play.google.com/store/apps/details?id=com.nico.supervize
+
 ## Configuring user rights
 
 On Centreon server you have to allow you user(s) to reach API :
@@ -26,6 +30,8 @@ Paid version available on google enable external command such as  Ack, Enable/Di
 ## Limitations
 
 superVize is able to work in background to send user notifications. But, if Android needs to free memory he will kill background functions.
+
+Free version doesn't allow to Ack, add comment etc...
 
 ## Screenshots
 
