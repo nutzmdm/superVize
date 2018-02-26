@@ -4,6 +4,7 @@
 
 # superVize
 Centreon mobile solution. Dedicated to work with [Centreon](https://www.centreon.com) API
+Check [Wiki](https://github.com/nutzmdm/superVize/wiki) for changelog
 
 
 # Description
